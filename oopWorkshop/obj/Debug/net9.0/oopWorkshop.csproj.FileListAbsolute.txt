@@ -1,0 +1,15 @@
+/Users/danilsm/Documents/oop-workshop/oopWorkshop/bin/Debug/net9.0/oopWorkshop
+/Users/danilsm/Documents/oop-workshop/oopWorkshop/bin/Debug/net9.0/oopWorkshop.deps.json
+/Users/danilsm/Documents/oop-workshop/oopWorkshop/bin/Debug/net9.0/oopWorkshop.runtimeconfig.json
+/Users/danilsm/Documents/oop-workshop/oopWorkshop/bin/Debug/net9.0/oopWorkshop.dll
+/Users/danilsm/Documents/oop-workshop/oopWorkshop/bin/Debug/net9.0/oopWorkshop.pdb
+/Users/danilsm/Documents/oop-workshop/oopWorkshop/obj/Debug/net9.0/oopWorkshop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danilsm/Documents/oop-workshop/oopWorkshop/obj/Debug/net9.0/oopWorkshop.AssemblyInfoInputs.cache
+/Users/danilsm/Documents/oop-workshop/oopWorkshop/obj/Debug/net9.0/oopWorkshop.AssemblyInfo.cs
+/Users/danilsm/Documents/oop-workshop/oopWorkshop/obj/Debug/net9.0/oopWorkshop.csproj.CoreCompileInputs.cache
+/Users/danilsm/Documents/oop-workshop/oopWorkshop/obj/Debug/net9.0/oopWorkshop.sourcelink.json
+/Users/danilsm/Documents/oop-workshop/oopWorkshop/obj/Debug/net9.0/oopWorkshop.dll
+/Users/danilsm/Documents/oop-workshop/oopWorkshop/obj/Debug/net9.0/refint/oopWorkshop.dll
+/Users/danilsm/Documents/oop-workshop/oopWorkshop/obj/Debug/net9.0/oopWorkshop.pdb
+/Users/danilsm/Documents/oop-workshop/oopWorkshop/obj/Debug/net9.0/oopWorkshop.genruntimeconfig.cache
+/Users/danilsm/Documents/oop-workshop/oopWorkshop/obj/Debug/net9.0/ref/oopWorkshop.dll
